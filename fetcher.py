@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 
 from config import FETCH_TIMEOUT_SECONDS, MAX_WORDS
 
-
 # ── Data shape ────────────────────────────────────────────────────────────────
 
 # Every article flowing through the pipeline is a plain dict with these keys.

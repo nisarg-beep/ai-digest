@@ -11,7 +11,7 @@
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # ── Scoring (Step 5) ──────────────────────────────────────────────────────────
-
+ 
 # Articles scoring below this are dropped before the summarization call
 RELEVANCE_THRESHOLD = 5
 

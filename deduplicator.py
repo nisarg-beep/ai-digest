@@ -13,7 +13,6 @@
 import hashlib
 import json
 import os
-
 from config import SEEN_FILE_PATH
 
 
