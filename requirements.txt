@@ -1,0 +1,9 @@
+# AI Digest — dependencies
+# Install with: pip install -r requirements.txt
+
+feedparser==6.0.12          # RSS feed parsing (step 1)
+httpx==0.28.1               # fetching full article HTML (step 3)
+beautifulsoup4==4.14.3      # stripping HTML to plain text (step 3)
+google-genai==2.8.0               # Gemini API calls (steps 5 & 6)
+rich==15.0.0                # terminal formatting (step 7)
+python-dotenv==1.2.2        # loading GEMINI_API_KEY from .env
