@@ -76,7 +76,7 @@ def print_article(result: dict, index: int) -> None:
             console.print()
 
     # ── LinkedIn draft ────────────────────────────────────────────────────────
-    console.print(Rule("  LINKEDIN DRAFT  ", style="cyan", align="left"))
+    console.print(Rule(" DRAFT  ", style="cyan", align="left"))
     console.print()
     console.print(Padding(Text(result["linkedin_draft"], style="bright_white"), (0, 4)))
     console.print()
