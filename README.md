@@ -107,7 +107,7 @@ Each file has exactly one responsibility. If something breaks, you know which fi
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ai-digest.git
+git clone https://github.com/nisarg-beep/ai-digest.git
 cd ai-digest
 ```
 
